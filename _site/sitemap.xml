@@ -25,7 +25,14 @@
 <lastmod>2020-01-31T08:45:13-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/my-site/jekyll/update/2022/06/12/welcome-to-jekyll.html</loc>
+<lastmod>2022-06-12T18:15:06-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/contact.html</loc>
@@ -35,6 +42,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/my-site/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/posts/page2/</loc>
