@@ -1,16 +1,16 @@
 title:              My Jane
 email:              myjaneausten@gmail.com
 description:        Emily's Blog!
-author:             Start Bootstrap
+author:             Emily Christ
 baseurl:            "/"
 url:                "https://www.myjaneausten.com"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
+twitter_username:   myjaneausten42
+github_username:    emily565
 facebook_username:  StartBootstrap
 instagram_username:  
-linkedin_username:
+linkedin_username:  emily-christ-b46387121
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
