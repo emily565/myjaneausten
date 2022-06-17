@@ -9,3 +9,13 @@
     margin-right: 15px;
     margin-top: 35px;
 }
+
+.about-image img {
+    width: 300px;
+}
+
+@media screen and (max-width: 600px) {
+    .about-image img {
+        width: 100%;
+    }
+}
