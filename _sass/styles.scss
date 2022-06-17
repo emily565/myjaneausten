@@ -1,2 +1,11 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+.about-page {
+    display: flex;
+}
+
+.about-image {
+    margin-right: 15px;
+    margin-top: 35px;
+}
